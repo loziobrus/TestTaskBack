@@ -1,0 +1,9 @@
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\obj\Debug\netcoreapp3.1\TestTask.Core.AssemblyInfoInputs.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\obj\Debug\netcoreapp3.1\TestTask.Core.AssemblyInfo.cs
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\obj\Debug\netcoreapp3.1\TestTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\bin\Debug\netcoreapp3.1\TestTask.Core.deps.json
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\bin\Debug\netcoreapp3.1\TestTask.Core.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\bin\Debug\netcoreapp3.1\TestTask.Core.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\obj\Debug\netcoreapp3.1\TestTask.Core.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\obj\Debug\netcoreapp3.1\TestTask.Core.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.Core\obj\Debug\netcoreapp3.1\TestTask.Core.csprojAssemblyReference.cache

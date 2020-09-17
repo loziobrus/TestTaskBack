@@ -1,0 +1,14 @@
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.csprojAssemblyReference.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.AssemblyInfoInputs.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.AssemblyInfo.cs
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.Services.deps.json
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.Services.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.Services.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.Core.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.DAL.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.DAL.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\bin\Debug\netcoreapp3.1\TestTask.Core.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.csproj.CopyComplete
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.Services\obj\Debug\netcoreapp3.1\TestTask.Services.pdb

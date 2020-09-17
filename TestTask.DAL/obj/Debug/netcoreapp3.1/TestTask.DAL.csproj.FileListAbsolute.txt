@@ -1,0 +1,15 @@
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.csprojAssemblyReference.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.AssemblyInfoInputs.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.AssemblyInfo.cs
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.csproj.CopyComplete
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.Core.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.DAL.deps.json
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.DAL.runtimeconfig.json
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.DAL.runtimeconfig.dev.json
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.DAL.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.DAL.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\bin\Debug\netcoreapp3.1\TestTask.Core.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.dll
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.pdb
+C:\Users\yura_\source\repos\TestTask\TestTask.DAL\obj\Debug\netcoreapp3.1\TestTask.DAL.genruntimeconfig.cache
